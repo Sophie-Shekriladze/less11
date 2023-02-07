@@ -157,3 +157,28 @@
     max-width: 1088px;
     width: 100%;
 }
+.icon{
+    width: 60px;
+    height: 60px;
+    background: blue;
+    border-radius: 50px;
+}
+
+.fa-envelope{
+    color: white;
+    margin: 35%;
+}
+
+.email-h2{
+    font-size: 14px;
+    font-weight: bolder;
+    color: black;
+}
+.email-adress{
+    color: #B1B1B1;
+}
+
+.icons-div{
+    width: 240px;
+    height: 185px;
+}
