@@ -1,0 +1,12 @@
+@media(max-width:1024px){
+    .navigation{
+        display: none;
+    }
+    .burger-bar{
+        display: flex;
+        color: white;
+    }
+    .about-us{
+        margin-left: 25px;
+    }
+}
