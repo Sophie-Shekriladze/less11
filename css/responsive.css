@@ -14,5 +14,34 @@
     .about-us{
         margin-left: 25px;
     }
+    .contact{
+        flex-wrap: nowrap;
+        width: 85%;
+    }
+    .form-elements{
+        flex-wrap: wrap;
+        width: 85%;
+    }
+
+    .form-divs{
+        width: 95%;
+        flex-wrap: wrap;
+    }
+
+    .text-area{
+        width: 95%;
+    }
+    .input-box{
+        width: 85%;
+        margin-top: 20px;
+    }
+
+    .button{
+        width: 85%;
+    }
+
+    .h2{
+        width: 70%;
+    }
 }
 
