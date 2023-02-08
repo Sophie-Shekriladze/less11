@@ -204,6 +204,11 @@ header{
     color: black;
 }
 .email-adress{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 150px;
+    width: 100%;
     color: #B1B1B1;    
 }
 
