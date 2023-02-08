@@ -69,5 +69,25 @@
      width: 100%;
     } 
 
+    .footer-div{
+        flex-wrap: wrap;
+        width: 80%;
+    }
+
+    .useful{
+        flex-wrap: wrap;
+        width: 80%;
+    }
+
+    .copy{
+        padding-top: 450px;
+        flex-wrap: wrap;
+        width: 80%;
+    }
+    .blac-div{
+        height: 1000px;
+        background: black;
+    }
+
 }
 

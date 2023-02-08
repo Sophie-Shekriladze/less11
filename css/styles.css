@@ -262,6 +262,7 @@
     display: flex;
     justify-content: space-between;
     margin-top: 50px;
+    margin-bottom: 0px;
     
 }
 .images{
@@ -354,6 +355,8 @@
 }
 
 footer{
+    width: 100%;
+    height: 395;
     background: black;
 }
 
@@ -369,7 +372,7 @@ footer{
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
-    margin-top: 90px;
+    padding-top: 30px;
 }
 
 .marian{
@@ -381,5 +384,52 @@ footer{
 }
 
 .web{
+    color: #5863F8;
+}
+
+.copy{
+    width: 1057px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 54px;
+    padding-bottom: 50px;
+}
+
+.contact-info{
+    width: 198px;
+    height: 145px;
+    display: flex;
+    flex-direction: column;
+}
+
+.fa-envelope{
+    background: rebeccapurple;
+}
+
+.example-email{
+    display: flex; 
+    padding-top: 20px;  
+    padding-bottom: 20px;
+    height: 10px;
+    
+    
+}
+
+.fa-at{
+    color: #5863F8;
+}
+
+.contact-meil{
+    color: white;
+    padding-left: 10px;    
+}
+
+.fa-phone-flip{
+    color:#5863F8;
+}
+
+.fa-location-dot{
     color: #5863F8;
 }
